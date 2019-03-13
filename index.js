@@ -1,6 +1,6 @@
 // Write your solution in this file!
 var customerName = 'bob';
 
-function upperCaseCustomerName(name) {
+function upperCaseCustomerName() {
  var customerName = customerName.toUpperCase()
 }
